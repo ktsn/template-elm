@@ -1,0 +1,15 @@
+{
+  "name": "template-elm",
+  "version": "1.0.0",
+  "description": "A project template for an Elm library",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "katashin",
+  "license": "MIT",
+  "devDependencies": {
+    "elm": "^0.16.0",
+    "elm-webpack-loader": "^2.0.1",
+    "webpack": "^1.13.0"
+  }
+}
